@@ -1,0 +1,1 @@
+1 Shell is a software used to interpret commands that are input through a commandline interface, enabling users to interact with a computer by giving it instruction. 2 I DONT KNOW. 3 I DONT KNOW.
